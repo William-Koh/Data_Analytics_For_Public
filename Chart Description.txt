@@ -1,0 +1,25 @@
+Chart 1
+Description: This is a Trend Analysis Chart. Colouring of each set of bars is differentiate by "Year".
+But note that the X-axis is in the form of "Month Year". This kind of bar colouring can only be done by Scripting within the Chart
+This technique is beneficial when comparing data by Years
+
+
+Chart 2, 6 & 7
+Description: Just a normal Chart visualization showing its vibrant colours
+
+
+Chart 3
+Description: This is a Bubble Chart. Its functionality is to serve as an overall view usage over a period of time.
+Creating a bubble chart is easy. The hard part is how do you know how many bubbles are there within this chart?
+Did you notice there's a "Bubble: 70.34%" at the top left corner in this chart? 
+It simply means bubbles occupies 70.34% of the total chart, be it big or small bubble.
+This calculation can only be done by Scripting
+Note: The bigger the bubble, the more data count it has
+
+
+Chart 4 & 5
+Description: This is a normal bar chart. 
+The only distinctive difference is that when a usage cross above "Max Occupancy" the bar will change colour. 
+In this case, those above "Max Occupancy" will show Orange colour and those below Green colour
+"Exceed Max Occupancy Rate" at the chart's top left corner is showing the number of bars above "Max Occupancy" in percentage
+This technique can only be achieve by Scripting
