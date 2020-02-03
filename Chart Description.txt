@@ -28,3 +28,23 @@ This technique can only be achieve by Scripting
 Chart 8
 Description: This is a sample Movement Chart. We can trace activities by observing their movements
 The plus point about this chart is, chart colour can be change by a click of a button 
+
+
+Chart 9
+Description: This is a Pattern Analysis Table. It's good for detecting Fraud, 
+especially when situation of 1st transaction row is Authentic
+& subsequent rows are Fraud. 
+Only rows that are Fraud will be highlighted for further investigation
+
+
+
+
+
+
+
+
+
+
+
+
+
