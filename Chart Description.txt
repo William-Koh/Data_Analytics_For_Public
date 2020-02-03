@@ -37,7 +37,13 @@ especially when situation of 1st transaction row is Authentic
 Only rows that are Fraud will be highlighted for further investigation
 
 
-
+Chart 10
+Description: This is a demo of a 3 dimensional bubble chart
+1st Dimension showing all Platforms
+2nd Dimension showing all available Month Year
+3rd Dimension counting the number of bubbles within 1 column
+This is a very useful chart when you wanted to visualise 3 sets of data within 1 Chart
+This can only achieve by Scripting 
 
 
 
