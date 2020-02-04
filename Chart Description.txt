@@ -31,10 +31,12 @@ The plus point about this chart is, chart colour can be change by a click of a b
 
 
 Chart 9
-Description: This is a Pattern Analysis Table. It's good for detecting Fraud, 
-especially when situation of 1st transaction row is Authentic
-& subsequent rows are Fraud. 
-Only rows that are Fraud will be highlighted for further investigation
+Description: This is a Pattern Analysis Table. It's good for detecting duplicates, 
+especially when 1st transaction row is Authentic & subsequent rows are duplicates.
+It can be programme only rows that are duplicates will be highlighted.
+This highlighting technique can also be deploy in detecting frauds. 
+Given a sets of rules, those transactions that violate these rules will be 
+highlighted for further investigation
 
 
 Chart 10
