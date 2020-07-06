@@ -1,14 +1,10 @@
-Chart 1
+Coloured by Year Chart
 Description: This is a Trend Analysis Chart. Colouring of each set of bars is differentiate by "Year".
 But note that the X-axis is in the form of "Month Year". This kind of bar colouring can only be done by Scripting within the Chart
 This technique is beneficial when comparing data by Years
 
 
-Chart 2, 6 & 7
-Description: Just a normal Chart visualization showing its vibrant colours
-
-
-Chart 3
+Bubble Chart
 Description: This is a Bubble Chart. Its functionality is to serve as an overall view usage over a period of time.
 Creating a bubble chart is easy. The hard part is how do you know how many bubbles are there within this chart?
 Did you notice there's a "Bubble: 70.34%" at the top left corner in this chart? 
@@ -17,7 +13,7 @@ This calculation can only be done by Scripting
 Note: The bigger the bubble, the more data count it has
 
 
-Chart 4 & 5
+Chart colour change crossing Threshold #1 & #2
 Description: This is a normal bar chart. 
 The only distinctive difference is that when a usage cross above "Max Occupancy" the bar will change colour. 
 In this case, those above "Max Occupancy" will show Orange colour and those below Green colour
@@ -25,12 +21,12 @@ In this case, those above "Max Occupancy" will show Orange colour and those belo
 This technique can only be achieve by Scripting
 
 
-Chart 8
+Movement Chart
 Description: This is a sample Movement Chart. We can trace activities by observing their movements
 The plus point about this chart is, chart colour can be change by a click of a button 
 
 
-Chart 9
+Detect Duplicates Table
 Description: This is a Pattern Analysis Table. It's good for detecting duplicates, 
 especially when 1st transaction row is Authentic & subsequent rows are duplicates.
 It can be programme only rows that are duplicates will be highlighted.
@@ -39,13 +35,35 @@ Given a sets of rules, those transactions that violate these rules will be
 highlighted for further investigation
 
 
-Chart 10
+3 Dimensional Chart
 Description: This is a demo of a 3 dimensional bubble chart
 1st Dimension showing all Platforms
 2nd Dimension showing all available Month Year
 3rd Dimension counting the number of bubbles within 1 column
 This is a very useful chart when you wanted to visualise 3 sets of data within 1 Chart
 This can only achieve by Scripting 
+
+
+Predictive Chart
+Description: This is a predictive chart. The line chart in Blue are Actual trend line and the line chart in red are Predictive trend base on a
+mathematic calculation
+This chart is good for striking a small fortune from stock market if the Predictive formula is accurate 
+This chart does not read its data from neither API, Database or Excel. Instead it's reading data from a url Table online. The whole process of 
+mining data and display data in chart is fully automated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
