@@ -15,6 +15,6 @@ Governing party holding an Election in year 2020 has the disadvantage of the fol
 During my analysis, I expect popular votes to decline for this election (vast majority Analysts expect popular 
 votes to increase, expecting most vote to be casted to Governing party to fight off pandemic)
 
-To keep my words short, I'm quite surprise, of these 11 articles, Non of them mention about GST. Which i believes it 
+To keep my words short, I'm quite surprise, of these 11 articles, None of them mention about GST. Which i believes it 
 play an important role in Election 2020
 
