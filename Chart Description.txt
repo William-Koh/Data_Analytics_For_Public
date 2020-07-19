@@ -52,6 +52,15 @@ This chart does not read its data from neither API, Database or Excel. Instead i
 mining data and display data in chart is fully automated
 
 
+STI Financial Crisis 1987 - 2020
+Description: Apart from the previous financial crisis. I expect Covid-19 recession to hit bottom with a much deeper 2nd dip than the 1st dip 
+happened on 23Mar2020. The 1st dip didn't review the true colour of Covid-19 recession due to US $2 trillion stimulus package which much 
+supported US ecomony. With the $2 trillion stimulus package running out over time and prolong Covid-19 pandemic, economy will again turn 
+southward and dip for a 2nd time, which i expect it to happen in the 3rd quarter of 2020. Unless an effective vaccine is found before the 
+2nd dip or another stimulus package greater than the 1st is introduce which i expect not likely to happen
+
+
+
 
 
 
