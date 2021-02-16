@@ -70,7 +70,24 @@ by end of 2021 instead of most Analysts predicted 2024. This is because every co
 In Stock Market, there's always a saying, "Buy on Fear, Sell on Greed"
 
 
-
+Singapore Airline Historial Chart 2 (Date of Analysis: 17Feb2021)
+Part 2 of Singapore Airline Analysis
+Note: Data of this chart is extracted from Web Scraping using Qlikview. I did not upload any data. Everything in the Chart is fully automated 
+All share price here have already Incorporated Mandatory Convertible Bonds (MCB) dilution
+This Chart itself contains 6 piece of information as the following
+(1) This line indicate the highest price of SIA throughout the years
+(2) This line indicate the lowest price of SIA throughout the years
+(3) This Bar Chart is a comparison Chart. Green Colour means higher average price as compared to previous year and Red Colour vice versa
+(4) This are the average price of a particular year. Formula: (Sum of all traded prices)/(No of trading days in that year) 
+(5) This is my consolidated buy price $3.67
+(6) Year of Trade
+Analysis: Through Technical Analysis, i bought SIA shares at different times and my final consolidated buy price as $3.67
+Looking forward with the roll out of vaccine, narrow loss in Q3 2020 and merger of SilkAir. SIA has becomes leaner and will becomes more 
+profitable once SIA regain its traffic. I expect SIA to announce better results for its next financial statement 
+Base on this Chart Analysis. I predicted 2021 SIA share price will range between $4 (Lower Limit) to $6.50 (Upper Limit) 
+For the next 2 years, I predicted SIA will hover between $4.50 to $7 and will get much better into its 4th year (2024, counting 2021 as 
+the 1st year)
+From the lesson learned from this pandemic, I believes SIA will be more prudent in its future strategic plans
 
 
 
